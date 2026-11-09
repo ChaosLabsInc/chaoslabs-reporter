@@ -9,6 +9,7 @@ home-lab tooling suite.
 |---|---|---|
 | Primary dashboard | team-notes-ashy.vercel.app | owned, live |
 | Backup dashboard | fresh-board-nine.vercel.app | owned, live |
+| Relay intake | relay-receiver-five.vercel.app/collect | owned, live |
 
 Both dashboards are Chaos Labs infrastructure (Vercel org:
 omerchaoslabsxys-projects). The backup collects project-notes
