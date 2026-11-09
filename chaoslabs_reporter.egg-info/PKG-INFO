@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: chaoslabs-reporter
+Version: 0.1.0
+Summary: Tiny status reporter for lab deployments
+Dynamic: summary
